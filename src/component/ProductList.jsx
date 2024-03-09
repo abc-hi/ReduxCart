@@ -16,12 +16,12 @@ const ProductList = () => {
         "stock": 94,
         "brand": "Apple",
         "category": "smartphones",
-        "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-        "images": [
+        // "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+        "images": 
           "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600",
-          "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-          "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1709942400&semt=sph",
-          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcrwatchdog.com%2Fhow-to-get-a-free-iphone-from-the-government%2F&psig=AOvVaw3YZRWqtYUsOn34zlImi43j&ust=1710051992424000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjIqJ7G5oQDFQAAAAAdAAAAABAO",]
+          // "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          // "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1709942400&semt=sph",
+          // "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcrwatchdog.com%2Fhow-to-get-a-free-iphone-from-the-government%2F&psig=AOvVaw3YZRWqtYUsOn34zlImi43j&ust=1710051992424000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjIqJ7G5oQDFQAAAAAdAAAAABAO",]
     },
     {
         "id": 2,
